@@ -1,0 +1,9 @@
+id,vorname,nachname,adresse,stadt,plz,E-mail,Tel-nummer,gehalt,fachgebiet
+1,Hakki,Gencer,Neumühle Str. 65,Erkelenz,41812,info@hg-erkelenz.de,02431-891,3800,Augenheilkunde
+2,Steffi,Müller,Fuchstrasse 18,Mönchengladbach,41199,info@sm-erkelenz.de,02431-892,4200,Hals-Nasen-Ohrenheilkunde
+3,Andreas,Rödger,Sohnstrasse 24,Düsseldorf,40210,info@ar-erkelenz.de,02431-893,4400,Urologie
+4,Maria,Küsters,Berner Weg 45,Köln,50667,info@mk-erkelenz.de,02431-894,3900,Allgemeinmedizin
+5,Sebastian,Müller,Grabenstrasse 7,Heinsberg,52525,info@sm-erkelenz.de,02431-895,4100,Anästhesiologie
+6,Dimitri,Sotkin,Jahnstrasse 67,Wegberg,41844,info@ds-erkelenz.de,02431-896,4500,Kinder- und Jungendmedizin
+7,Omar,Ahmed,Beecker Str. 71,Erkelenz,41812,info@oa-erkelenz.de,02431-897,4200,Innere Medizin
+8,Caroline,Martin,Kirchfeldstrasse 12,Mönchengladbach,41199,info@cm-erkelenz.de,02431-898,5100,Physikalische und Rehabilitative Medizin

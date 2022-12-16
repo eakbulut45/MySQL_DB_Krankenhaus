@@ -1,0 +1,11 @@
+id,vorname,nachname,geschlecht,geburtsdatum,blutgruppe,adresse,stadt,plz
+1,Grace,Ritchie,M,27.11.91,A Rh-,Neumühle Str. 67,Erkelenz,41812
+2,John,Smith,M,08.08.98,B Rh+,Fuchstrasse 19,Mönchengladbach,41199
+3,Carla,Müller,W,01.01.64,AB Rh-,Sohnstrasse 25,Düsseldorf,40210
+4,Paul,Flowers,M,16.02.01,0 Rh+,Berner Weg 47,Köln,50667
+5,Laverne,Lessenig,W,30.04.71,A Rh+,Grabenstrasse 72,Heinsberg,52525
+6,Emilia,Schmidt,W,24.11.56,0 Rh-,Jahnstrasse 6,Wegberg,41844
+7,Adelbert,Schneider,M,05.09.22,AB Rh+,Beecker Str. 7,Erkelenz,41812
+8,Adam,Meyer,M,18.04.96,B Rh-,Kirchfeldstrasse 12,Mönchengladbach,41199
+9,Emma,Hoffmann,W,20.02.78,B Rh+,Beecker Str. 67,Wegberg,41844
+10,Lina,Wagner,W,15.12.54,A Rh-,Bahnhof Str. 5,Wegberg,41844
